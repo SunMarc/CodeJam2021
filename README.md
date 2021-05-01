@@ -19,3 +19,4 @@ Points obtained : 42
 
 Rank needed to pass : 1500 
 
+Conclusion : If I was a bit more faster, I could have passed the round1C. Overall, it was fun and I hope to do better for CodeJam2022 =)
