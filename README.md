@@ -2,7 +2,7 @@
 
 ### Qualification : Rank 8675/37398
 - Reversort : passed all test cases 
-- Moons and Umbrellas : passed all test cases 
+- Moons and Umbrellas : passed all test cases ( + special test case worth only one point just for challenging ourselves )
 - Reversort Engineering : passed all test cases
 - Median Sort : not treated
 - Cheating Detection : not treated 
