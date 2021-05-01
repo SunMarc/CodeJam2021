@@ -1,5 +1,11 @@
 # CodeJamRound2021
 
+## What is CodeJam ? 
+
+  Google’s longest running global coding competition, Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. Contestants advance through four online-hosted rounds to compete at the annual Code Jam World Finals that is held at a different international Google office each year. Each round brings new challenges, and in the end 25 contestants will have the ultimate chance to put their skills to the test, vying for cash prizes and the coveted championship title at the World Finals.
+
+## My results 
+
 ### Qualification : Rank 8675/37398
 - Reversort : passed all test cases 
 - Moons and Umbrellas : passed all test cases ( + special test case worth only one point just for challenging ourselves )
@@ -19,4 +25,5 @@ Points obtained : 42
 
 Rank needed to pass : 1500 
 
-Conclusion : If I was a bit more faster, I could have passed the round1C. Overall, it was fun and I hope to do better for CodeJam2022 =)
+### Conclusion 
+If I was a bit more faster, I could have passed the round1C. Overall, it was fun and I hope to do better for CodeJam2022 =)
